@@ -8,6 +8,7 @@ package com.yagc.pm.okr.pi.dto;
 public class EmployeeDTO {
 
     //TODO See and check how we can structure the data
+    // TODO i need to apply trie or any type of trees for faster retrieval of data
     private EmployeeDetails details;
     private String role;// engineering manager or developer or architect or QE
     private String availabilityForPI;
